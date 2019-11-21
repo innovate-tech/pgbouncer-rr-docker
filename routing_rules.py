@@ -23,11 +23,11 @@ routingtable = {
     'route': [{
         'usernameRegex': '.*',
         'queryRegex': '.*tablea.*',
-        'dbkey': 'dev.1'
+        'dbkey': 'master'
     }, {
         'usernameRegex': '.*',
         'queryRegex': '.*tableb.*',
-        'dbkey': 'dev.2'
+        'dbkey': 'rreplica'
     }
     ],
     'default': None

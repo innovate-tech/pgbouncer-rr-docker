@@ -1,0 +1,3 @@
+*.ini
+!example.ini
+.DS_Store
